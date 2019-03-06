@@ -1,8 +1,7 @@
 /*------------------------------------------------------------------------------
-   Example code that shows the use of the 'cam2world" and 'world2cam" functions
-   Shows also how to undistort images into perspective or panoramic images
+  
    Copyright (C) 2008 DAVIDE SCARAMUZZA, ETH Zurich
-   Author: Davide Scaramuzza - email: davide.scaramuzza@ieee.org
+   Davide Scaramuzza - email: davide.scaramuzza@ieee.org
 ------------------------------------------------------------------------------*/
 
 #include "ocamcalib_undistort/ocam_functions.h"
