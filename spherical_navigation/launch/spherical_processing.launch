@@ -1,0 +1,10 @@
+<launch>
+
+	<node name="image_publisher" pkg="spherical_navigation" type="image_publisher" respawn="true" 			output="screen">
+	</node>
+
+	<node name="spherical_processing" pkg="spherical_navigation" type="spherical_processing" 			respawn="true" output="screen">
+	</node>
+
+
+</launch>
