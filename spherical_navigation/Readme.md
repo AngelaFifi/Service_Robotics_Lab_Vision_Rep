@@ -17,4 +17,11 @@ All the functions have been implemented, but at the moment the node reads the im
 
 Please notice that you should calibrate your camera and change the path of the calibrtations file
 
+You can run the node separately or use the launch file  
+
+
+"roslaunch spherical_navigation spherical_processing.launch"
+
+
+
 
